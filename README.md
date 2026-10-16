@@ -10,7 +10,7 @@ El sistema integra un modelo de sondeo activo en dos fases (Capa 3 y Capa 7), de
 
 Los appliances virtuales configurados (archivos `.ova` / `.vmx`) con el laboratorio completo preconfigurado, credenciales de prueba y servicios listos para levantar en VMware Workstation están disponibles en el siguiente enlace de almacenamiento:
 
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-Descargar%20Máquinas%20Virtuales-blue?logo=googledrive&style=for-the-badge)](https://drive.google.com/drive/folders/TU_ID_DE_CARPETA_AQUI?usp=sharing)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-Descargar%20Máquinas%20Virtuales-blue?logo=googledrive&style=for-the-badge)](https://drive.google.com/drive/folders/1zQ7pQ78liLUYDEAIXBuIL5LUTPc0o7HO?usp=sharing)
 
 > **Nota:** Se recomienda importar las máquinas virtuales manteniendo la configuración de red en modo **Custom (VMnet con segmento 192.168.100.0/24)** para asegurar la interoperabilidad inmediata entre los tres nodos.
 
